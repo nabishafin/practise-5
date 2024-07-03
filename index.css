@@ -18,3 +18,10 @@ img {
     height: 320px;
     margin: 10px;
 }
+
+.info {
+    background-color: rgb(192, 24, 207);
+    margin: 15px;
+    padding: 10px;
+    border-radius: 5px;
+}
